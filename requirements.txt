@@ -1,3 +1,5 @@
-Flask
+gradio
 tensorflow
 tensorflow_hub
+pillow
+numpy
