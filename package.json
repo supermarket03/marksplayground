@@ -17,7 +17,7 @@
     "api"
   ],
   "author": "Mark",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "@tensorflow/tfjs-node": "^4.10.0",
     "cors": "^2.8.5",
